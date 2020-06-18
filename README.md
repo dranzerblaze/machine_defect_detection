@@ -1,2 +1,2 @@
-# machine_defect_detection
+# Machine Defect Classification
 Classifies whether an image is Healthy or Defective.
